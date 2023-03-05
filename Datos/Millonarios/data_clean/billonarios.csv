@@ -1,0 +1,46 @@
+,name,rank,year,company.founded,company.name,company.relationship,company.sector,company.type,demographics.age,demographics.gender,location.citizenship,location.country code,location.region,wealth.type,wealth.worth in billions,wealth.how.category,wealth.how.from emerging,wealth.how.industry,wealth.how.inherited,wealth.how.was founder,wealth.how.was political
+0,Bill Gates,1,1996,1975,Microsoft,founder, Software,new,40,male,United States,USA,North America,founder non-finance,18.5,New Sectors,True,Technology-Computer,not inherited,True,True
+1,Bill Gates,1,2001,1975,Microsoft,founder, Software,new,45,male,United States,USA,North America,founder non-finance,58.7,New Sectors,True,Technology-Computer,not inherited,True,True
+2,Bill Gates,1,2014,1975,Microsoft,founder, Software,new,58,male,United States,USA,North America,founder non-finance,76.0,New Sectors,True,Technology-Computer,not inherited,True,True
+3,Warren Buffett,2,1996,1962,Berkshire Hathaway,founder, Finance,new,65,male,United States,USA,North America,founder non-finance,15.0,Traded Sectors,True,Consumer,not inherited,True,True
+4,Warren Buffett,2,2001,1962,Berkshire Hathaway,founder, Finance,new,70,male,United States,USA,North America,founder non-finance,32.3,Traded Sectors,True,Consumer,not inherited,True,True
+5,Carlos Slim Helu,2,2014,1990,Telmex,founder, Communications,privatization,74,male,Mexico,MEX,Latin America,privatized and resources,72.0,Non-Traded Sectors,True,Media,not inherited,True,True
+7,Paul Allen,3,2001,1975,Microsoft,founder,technology,new,48,male,United States,USA,North America,founder non-finance,30.4,New Sectors,True,Technology-Computer,not inherited,True,True
+8,Amancio Ortega,3,2014,1975,Zara,founder,Fashion,new,77,male,Spain,ESP,Europe,founder non-finance,64.0,Non-Traded Sectors,True,"Retail, Restaurant",not inherited,True,True
+9,Lee Shau Kee,4,1996,1976,Henderson Land Development,founder/chairman,real estate,new,68,male,Hong Kong,HKG,East Asia,self-made finance,12.7,Financial,True,Real Estate,not inherited,True,True
+10,Larry Ellison,4,2001,1977,Oracle,founder, software, new,56,male,United States,USA,North America,founder non-finance,26.0,New Sectors,True,Technology-Computer,not inherited,True,True
+11,Warren Buffett,4,2014,1839,Berkshire Hathaway,founder, Finance,aquired,83,male,United States,USA,North America,founder non-finance,58.2,Traded Sectors,True,Consumer,not inherited,True,True
+12,Tsai Wan-lin,5,1996,1962,Lin Yuan Group,founder,banking and insurance,new,71,male,Taiwan,Taiwan,East Asia,self-made finance,12.2,Financial,True,Hedge funds,not inherited,True,True
+14,Larry Ellison,5,2014,1977,Oracle,founder, software, new,69,male,United States,USA,North America,founder non-finance,48.0,New Sectors,True,Technology-Computer,not inherited,True,True
+16,Prince Alwaleed Bin Talal Alsaud,6,2001,1980,Kingdom Holding Company,founder,construction/real estate/banking,new,44,male,Saudi Arabia,SAU,Middle East/North Africa,privatized and resources,20.0,Financial,True,Money Management,not inherited,True,True
+17,Charles Koch,6,2014,1940,Koch industries,relation,  Oil refining,new,78,male,United States,USA,North America,inherited,40.0,Financial,True,Diversified financial,father,True,True
+18,David Koch,6,2014,1940,Koch industries,relation, Oil refining,new,73,male,United States,USA,North America,inherited,40.0,Financial,True,Diversified financial,father,True,True
+19,Li Ka-shing,7,1996,1971,Cheung king,founder,real estate,new,67,male,Hong Kong,HKG,East Asia,self-made finance,10.6,Financial,True,Real Estate,not inherited,True,True
+20,Jim Walton,7,2001,1962,Walmart,relation,retail, new,53,male,United States,USA,North America,inherited,18.8,Non-Traded Sectors,True,"Retail, Restaurant",father,True,True
+21,Yoshiaki Tsutsumi,8,1996,1894,Seibu Corporation,relation,real estate,aquired,61,male,Japan,JPN,East Asia,inherited,9.2,Financial,True,Real Estate,father,True,True
+22,John Walton,8,2001,1962,Walmart,relation, retail, new,55,male,United States,USA,North America,inherited,18.7,Traded Sectors,True,Consumer,father,True,True
+23,Sheldon Adelson,8,2014,1952,Las Vegas Sands,founder, casinos, acquired,80,male,United States,USA,North America,self-made finance,38.0,Financial,True,Real Estate,not inherited,True,True
+25,S Robson Walton,9,2001,1962,Walmart,relation,retail, new,57,male,United States,USA,North America,inherited,18.6,Non-Traded Sectors,True,"Retail, Restaurant",father,True,True
+26,Christy Walton,9,2014,1962,Walmart,relation, retail, new,59,female,United States,USA,North America,inherited,36.7,Non-Traded Sectors,True,"Retail, Restaurant",spouse/widow,True,True
+28,Alice Walton,10,2001,1962,Walmart,relation,retail, new,52,female,United States,USA,North America,inherited,18.5,Non-Traded Sectors,True,"Retail, Restaurant",father,True,True
+29,Helen Walton,10,2001,1962,Walmart,relation,retail, new,81,female,United States,USA,North America,inherited,18.5,Traded Sectors,True,Consumer,spouse/widow,True,True
+30,Jim Walton,10,2014,1962,Walmart,relation,retail, new,66,male,United States,USA,North America,inherited,34.7,Non-Traded Sectors,True,"Retail, Restaurant",father,True,True
+31,Johanna Quandt,11,1996,1916,BMW,relation,cars,new,68,female,Germany,DEU,Europe,inherited,8.1,Traded Sectors,True,Consumer,spouse/widow,True,True
+32,Liliane Bettencourt,11,2014,1909,L'Oreal,relation,cosmetics,new,91,female,France,FRA,Europe,inherited,34.5,Traded Sectors,True,Consumer,father,True,True
+34,Johanna Quandt,12,2001,1916,BMW,relation,cars,new,73,female,Germany,DEU,Europe,inherited,17.8,Traded Sectors,True,Consumer,spouse/widow,True,True
+35,Stefan Persson,12,2014,1947, H&M,relation, fashion, new,66,male,Sweden,SWE,Europe,inherited,34.4,Traded Sectors,True,Consumer,father,True,True
+36,Paul Allen,13,1996,1975,Microsoft,founder,technology,new,43,male,United States,USA,North America,founder non-finance,7.5,New Sectors,True,Technology-Computer,not inherited,True,True
+37,Steven Ballmer,13,2001,1975,Microsoft,CEO,technology,new,44,male,United States,USA,North America,executive,16.6,New Sectors,True,Technology-Computer,not inherited,True,True
+38,Alice Walton,13,2014,1962,Walmart,relation,retail, new,64,female,United States,USA,North America,inherited,34.3,Non-Traded Sectors,True,"Retail, Restaurant",father,True,True
+39,Kenneth Thomson,14,1996,1934,Thomson Corporation (now Thomson Reuters),relation,media,acquired,72,male,Canada,CAN,North America,inherited,7.4,Non-Traded Sectors,True,Media,father,True,True
+40,Kenneth Thomson,14,2001,1934,Thomson Corporation (now Thomson Reuters),relation,media,acquired,77,male,Canada,CAN,North America,inherited,16.4,Non-Traded Sectors,True,Media,father,True,True
+41,S. Robson Walton,14,2014,1962,Walmart,relation,retail, new,70,male,United States,USA,North America,inherited,34.2,Non-Traded Sectors,True,"Retail, Restaurant",father,True,True
+42,John Kluge,15,1996,1956,Metropolitan Broadcasting Corporation,chairman,media,new,81,male,United States,USA,North America,executive,7.2,Non-Traded Sectors,True,Media,not inherited,True,True
+43,Liliane Bettencourt,15,2001,1909,L'Oreal,relation,cosmetics,new,78,female,France,FRA,Europe,inherited,15.6,Traded Sectors,True,Consumer,father,True,True
+44,Bernard Arnault,15,2014,1987,LVMH,founder,luxury goods,acquired,64,male,France,FRA,Europe,founder non-finance,33.5,Traded Sectors,True,Consumer,not inherited,True,True
+46,Philip Anschutz,16,2001,1961,Circle A Drilling,investor,"oil, railroad, investments",aquired,61,male,United States,USA,North America,self-made finance,15.3,Financial,True,Money Management,not inherited,True,True
+47,Michael Bloomberg,16,2014,1981,Bloomberg,founder, finance, new,72,male,United States,USA,North America,founder non-finance,33.0,Non-Traded Sectors,True,Media,not inherited,True,True
+49,Ingvar Kamprad,17,2001,1943,IKEA,founder,furniture,new,74,male,Sweden,SWE,Europe,founder non-finance,13.0,Non-Traded Sectors,True,"Retail, Restaurant",not inherited,True,True
+50,Larry Page,17,2014,1998,Google,founder, technology, new,40,male,United States,USA,North America,founder non-finance,32.3,New Sectors,True,Technology-Computer,not inherited,True,True
+51,Carlos Slim Helu,18,1996,1990,Telmex,founder, Communications,privatization,56,male,Mexico,MEX,Latin America,privatized and resources,6.1,Non-Traded Sectors,True,Media,not inherited,True,True
+52,Li Ka-shing,18,2001,1971,Cheung king,founder,real estate,new,72,male,Hong Kong,HKG,East Asia,self-made finance,12.6,Financial,True,Real Estate,not inherited,True,True
