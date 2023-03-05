@@ -24,7 +24,7 @@
 
 ## Temas de analisis 🤖
 - Estado de covid a nivel mundial **Web Scrapping**
-- Top ventas en **Amazon**
+- Catalogo de tablets en **Amazon Web Scraping**
 - Lista de millonarios a nivel mundial **CSV**
 - Top Streamers Twich **Kaggle**
 - Top musicas en **Spotify**
