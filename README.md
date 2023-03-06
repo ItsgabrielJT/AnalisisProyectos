@@ -14,7 +14,7 @@
 
 ## Enlace del video 🔗
 
-> [Youtube Video](https://esfot.epn.edu.ec/images/headers/logo_esfot_buho.png)
+> [Youtube Video](https://youtu.be/cYUY2nncST0)
 
 ## Arquitectura del Data Lake 🧩
 
